@@ -6,7 +6,7 @@ To develop a Django application to store and retrieve data from Movies Database 
 
 ## ENTITY RELATIONSHIP DIAGRAM
 
-
+![alt text](<er dia.jpg>)
 
 ## DESIGN STEPS
 
@@ -51,8 +51,8 @@ class MovieAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
-![alt text](<Screenshot 2025-04-15 135148.png>)
 
+![alt text](<Screenshot 2025-04-15 135148.png>)
 
 
 ## RESULT
